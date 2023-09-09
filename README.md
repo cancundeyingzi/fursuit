@@ -5,6 +5,6 @@
 ![image](https://github.com/cancundeyingzi/fursuit/assets/73635883/b9c66248-65b1-4ffd-a112-9c2ee0caaa35)
 ![image](https://github.com/cancundeyingzi/fursuit/assets/73635883/75c6c371-98b0-4a32-8302-9f7e1f30111f)                     
              
-3. OK
+3. 等待更新
 4. 
 
