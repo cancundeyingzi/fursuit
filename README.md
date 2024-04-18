@@ -6,8 +6,9 @@
 ![image](https://github.com/cancundeyingzi/fursuit/assets/73635883/b9c66248-65b1-4ffd-a112-9c2ee0caaa35)
 ![image](https://github.com/cancundeyingzi/fursuit/assets/73635883/75c6c371-98b0-4a32-8302-9f7e1f30111f)                     
              
-3. 注意内部用料,过段时间可能会额外开个md放图(放不了一点.一直失败)链接：https://pan.baidu.com/s/1569lsBaY59nnGqDhlhI46g?pwd=880f 
+3. 注意内部用料,过段时间可能会额外开个md放图(放不了一点.一直失败)
+   自行判断哪些好？哪些坏？链接：https://pan.baidu.com/s/1569lsBaY59nnGqDhlhI46g?pwd=880f 
 提取码：880f 
 
-4. 打印头骨和毛布之间热熔胶需要灌满,特别是头上有角的情况
+5. 打印头骨和毛布之间热熔胶需要灌满,特别是头上有角的情况
 
